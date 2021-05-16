@@ -2,30 +2,65 @@
 # intended functions.
 
 [msl]
-MSL_MAHLI_INPAINT_MASK_PATH = "MSL_MAHLI_INPAINT_Sol2904_V1.png"
-MSL_MAHLI_FLAT_PATH = "MSL_MAHLI_FLAT_Sol2904_V1.png"
-MSL_NCAM_RIGHT_INPAINT_PATH = "MSL_NRB_INPAINT_Sol3052_V1.png"
-MSL_NCAM_RIGHT_FLAT_PATH = "MSL_NRB_FLAT_V1.png"
-MSL_NCAM_LEFT_FLAT_PATH = "MSL_NLB_FLAT_V1.png"
-MSL_FHAZ_RIGHT_FLAT_PATH = "MSL_FRB_FLAT_V1.png"
-MSL_FHAZ_LEFT_FLAT_PATH = "MSL_FLB_FLAT_V1.png"
-MSL_RHAZ_RIGHT_FLAT_PATH = "MSL_RRB_FLAT_V1.png"
-MSL_RHAZ_LEFT_FLAT_PATH = "MSL_RLB_FLAT_V1.png"
-MSL_MCAM_LEFT_INPAINT_PATH = "MSL_MCAM_LEFT_INPAINT_Sol3082_V1.png"
-MSL_MCAM_RIGHT_INPAINT_PATH = "MSL_MCAM_RIGHT_INPAINT_Sol3101_V1.png"
+    [msl.mahli]
+        flat = "MSL_MAHLI_FLAT_Sol2904_V1.png"
+        inpaint_mask = "MSL_MAHLI_INPAINT_Sol2904_V1.png"
+    
+    [msl.nav_right]
+        flat = "MSL_NRB_FLAT_V1.png"
+        inpaint_mask = "MSL_NRB_INPAINT_Sol3052_V1.png"
+    
+    [msl.nav_left]
+        flat = "MSL_NLB_FLAT_V1.png"
+        inpaint_mask = ""
+
+    [msl.fhaz_right]
+        flat = "MSL_FRB_FLAT_V1.png"
+        inpaint_mask = ""
+    
+    [msl.fhaz_left]
+        flat = "MSL_FLB_FLAT_V1.png"
+        inpaint_mask = ""
+
+    [msl.rhaz_right]
+        flat = "MSL_RRB_FLAT_V1.png"
+        inpaint_mask = ""
+
+    [msl.rhaz_left]
+        flat = "MSL_RLB_FLAT_V1.png"
+        inpaint_mask = ""
+
+    [msl.mastcam_right]
+        flat = ""
+        inpaint_mask = "MSL_MCAM_RIGHT_INPAINT_Sol3101_V1.png"
+
+    [msl.mastcam_left]
+        flat = ""
+        inpaint_mask = "MSL_MCAM_LEFT_INPAINT_Sol3082_V1.png"
+
 
 
 [m20]
-M20_INPAINT_MASK_RIGHT_PATH = "M20_MCZ_RIGHT_INPAINT_MASK_V1.png"
-M20_INPAINT_MASK_LEFT_PATH = "M20_MCZ_LEFT_INPAINT_MASK_V1.png"
-M20_WATSON_INPAINT_MASK_PATH = "M20_WATSON_INPAINT_MASK_V1.png"
-M20_WATSON_FLAT_PATH = "M20_WATSON_FLAT_V0.png"
-M20_SCAM_FLAT_PATH = "M20_SCAM_FLAT_RGB_Sol77_V2.png"
-M20_SCAM_MASK_PATH = "M20_SCAM_MASK_Sol1_V1.png"
+    [m20.mastcamz_right]
+        flat = ""
+        inpaint_mask = "M20_MCZ_RIGHT_INPAINT_MASK_V1.png"
+    
+    [m20.mastcamz_left]
+        flat = ""
+        inpaint_mask = "M20_MCZ_LEFT_INPAINT_MASK_V1.png"
+
+    [m20.watson]
+        flat = "M20_WATSON_FLAT_V0.png"
+        inpaint_mask = "M20_WATSON_INPAINT_MASK_V1.png"
+
+    [m20.supercam_rmi]
+        flat = "M20_SCAM_FLAT_RGB_Sol77_V2.png"
+        inpaint_mask = "M20_SCAM_MASK_Sol1_V1.png"
 
 
 [nsyt]
-
+    [nsyt.idc]
+    [nsyt.icc]
 
 
 
