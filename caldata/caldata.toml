@@ -60,8 +60,12 @@
 
 [nsyt]
     [nsyt.idc]
-    [nsyt.icc]
+        flat = "NSYT_FLAT_SN_0210.png"
+        inpaint_mask = ""
 
+    [nsyt.icc]
+        flat = "NSYT_FLAT_SN_0203.png"
+        inpaint_mask = ""
 
 
 
