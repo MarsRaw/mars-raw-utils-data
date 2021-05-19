@@ -52,6 +52,11 @@
         inpaint_mask = ""
         mask = "MSL_CCAM_MASK_Sol3122_V2.png"
 
+    [msl.mardi]
+        flat = "FLAT_MD_0_RGB_V1.png"
+        inpaint_mask = ""
+        mask = ""
+
 
 
 [m20]
