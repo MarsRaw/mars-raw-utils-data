@@ -53,7 +53,7 @@
         mask = "MSL_CCAM_MASK_Sol3122_V2.png"
 
     [msl.mardi]
-        flat = "FLAT_MD_0_RGB_V1.png"
+        flat = "FLAT_MD_0_RGB_V1.jpg"
         inpaint_mask = ""
         mask = ""
 
@@ -112,12 +112,12 @@
 
 [nsyt]
     [nsyt.idc]
-        flat = "NSYT_FLAT_SN_0210.png"
+        flat = "NSYT_FLAT_SN_0210.jpg"
         inpaint_mask = ""
         mask = ""
 
     [nsyt.icc]
-        flat = "NSYT_FLAT_SN_0203.png"
+        flat = "NSYT_FLAT_SN_0203.jpg"
         inpaint_mask = ""
         mask = ""
 
