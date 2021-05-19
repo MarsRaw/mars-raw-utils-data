@@ -47,10 +47,10 @@
         inpaint_mask = "MSL_MCAM_LEFT_INPAINT_Sol3082_V1.png"
         mask = ""
 
-    [msl.ccam]
-        flat = ""
+    [msl.chemcam]
+        flat = "MSL_CCAM_FLAT_Sol32_V1.png"
         inpaint_mask = ""
-        mask = "MSL_CCAM_MASK_Sol3122_V1.png"
+        mask = "MSL_CCAM_MASK_Sol3122_V2.png"
 
 
 
