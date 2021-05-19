@@ -75,6 +75,35 @@
         inpaint_mask = ""
         mask = "M20_SCAM_MASK_Sol1_V1.png"
 
+    [m20.nav_left]
+        flat = ""
+        inpaint_mask = ""
+        mask = ""
+
+    [m20.nav_right]
+        flat = ""
+        inpaint_mask = ""
+        mask = ""
+
+    [m20.fhaz_right]
+        flat = ""
+        inpaint_mask = ""
+        mask = ""
+
+    [m20.fhaz_left]
+        flat = ""
+        inpaint_mask = ""
+        mask = ""
+
+    [m20.rhaz_right]
+        flat = ""
+        inpaint_mask = ""
+        mask = ""
+
+    [m20.rhaz_left]
+        flat = ""
+        inpaint_mask = ""
+        mask = ""
 
 [nsyt]
     [nsyt.idc]
