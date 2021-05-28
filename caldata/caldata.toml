@@ -110,6 +110,16 @@
         inpaint_mask = ""
         mask = ""
 
+    [m20.heli_nav]
+        flat = "M20_HELI_NAV_FLAT_Sol76_V1.jpg"
+        inpaint_mask = ""
+        mask = ""
+
+    [m20.heli_rte]
+        flat = ".jpg"
+        inpaint_mask = ""
+        mask = ""
+
 [nsyt]
     [nsyt.idc]
         flat = "NSYT_FLAT_SN_0210.jpg"
