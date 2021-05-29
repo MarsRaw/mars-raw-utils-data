@@ -116,7 +116,7 @@
         mask = ""
 
     [m20.heli_rte]
-        flat = ".jpg"
+        flat = "M20_HELI_RTE_FLAT_V1.jpg"
         inpaint_mask = ""
         mask = ""
 
