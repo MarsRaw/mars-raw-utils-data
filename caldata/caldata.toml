@@ -38,12 +38,12 @@
         mask = ""
 
     [msl.mastcam_right]
-        flat = ""
+        flat = "FLAT_MR_filter0_0-rjcal.jpg"
         inpaint_mask = "MSL_MCAM_RIGHT_INPAINT_Sol3101_V1.png"
         mask = ""
 
     [msl.mastcam_left]
-        flat = ""
+        flat = "FLAT_ML_filter0_0-rjcal.jpg"
         inpaint_mask = "MSL_MCAM_LEFT_INPAINT_Sol3082_V1.png"
         mask = ""
 
