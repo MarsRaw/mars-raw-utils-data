@@ -1,0 +1,8 @@
+apply_ilt = true
+red_scalar = 1.16
+green_scalar = 1.0
+blue_scalar = 1.05
+color_noise_reduction = false
+color_noise_reduction_amount = 0
+hot_pixel_detection_threshold = 0
+
