@@ -5,4 +5,4 @@ blue_scalar = 1.155
 color_noise_reduction = false
 color_noise_reduction_amount = 0
 hot_pixel_detection_threshold = 0
-
+filename_suffix = "rjcal-rad"
