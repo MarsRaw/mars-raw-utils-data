@@ -61,12 +61,12 @@
 
 [m20]
     [m20.mastcamz_right]
-        flat = ""
+        flat = "R0_-motorcount-_cont_v1.jpg"
         inpaint_mask = "M20_MCZ_RIGHT_INPAINT_MASK_V1.png"
         mask = ""
     
     [m20.mastcamz_left]
-        flat = ""
+        flat = "L0_-motorcount-_cont_v1.jpg"
         inpaint_mask = "M20_MCZ_LEFT_INPAINT_MASK_V1.png"
         mask = ""
 
