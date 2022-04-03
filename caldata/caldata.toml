@@ -71,7 +71,7 @@
         mask = ""
 
     [m20.watson]
-        flat = "M20_WATSON_FLAT_V0.png"
+        flat = "M20_WATSON_PREFLIGHT_FLAT_RGB_FOCUS_11958_V1.jpg"
         inpaint_mask = "M20_WATSON_INPAINT_MASK_V1.png"
         mask = ""
 
