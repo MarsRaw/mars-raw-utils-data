@@ -115,6 +115,11 @@
         inpaint_mask = ""
         mask = ""
 
+    [m20.skycam]
+        flat = "meda_rad_flat_padded.jpg"
+        inpaint_mask = ""
+        mask = ""
+
     [m20.heli_nav]
         flat = "M20_HELI_NAV_FLAT_Sol76_V1.jpg"
         inpaint_mask = ""
