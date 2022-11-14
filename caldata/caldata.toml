@@ -130,6 +130,11 @@
         inpaint_mask = ""
         mask = ""
 
+    [m20.sherloc_aci]
+        flat = "SHERLOC_ACI_Sol0077_Flat.png"
+        inpaint_mask = ""
+        mask =""
+
 [nsyt]
     [nsyt.idc]
         flat = "NSYT_FLAT_SN_0210.jpg"
