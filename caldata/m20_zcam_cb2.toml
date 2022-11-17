@@ -1,3 +1,4 @@
+calfiletype = "profile"
 apply_ilt = true
 red_scalar = 0.9029
 green_scalar = 0.9238
@@ -6,3 +7,6 @@ color_noise_reduction = false
 color_noise_reduction_amount = 0
 hot_pixel_detection_threshold = 0
 filename_suffix = "rjcal-cb2"
+mission = "Mars2020"
+instrument = "MASTCAMZ"
+description = ""
