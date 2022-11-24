@@ -135,6 +135,11 @@
         inpaint_mask = ""
         mask =""
 
+    [m20.cachecam]
+        flat = ""
+        inpaint_mask = ""
+        mask = ""
+
 [nsyt]
     [nsyt.idc]
         flat = "NSYT_FLAT_SN_0210.jpg"
