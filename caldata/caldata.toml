@@ -81,12 +81,12 @@
         mask = "M20_SCAM_MASK_Sol1_V1.png"
 
     [m20.nav_left]
-        flat = ""
+        flat = "FM103_flat_rgb_bias_mask.jpg"
         inpaint_mask = ""
         mask = ""
 
     [m20.nav_right]
-        flat = ""
+        flat = "FM103_flat_rgb_bias_mask.jpg"
         inpaint_mask = ""
         mask = ""
 
