@@ -1,12 +1,12 @@
 calfiletype = "profile"
 apply_ilt = true
-red_scalar = 1.0
-green_scalar = 1.0
-blue_scalar = 1.0
+red_scalar = 1.043
+green_scalar = 0.9858
+blue_scalar = 1.597
 color_noise_reduction = false
 color_noise_reduction_amount = 0
 hot_pixel_detection_threshold = 0
-filename_suffix = "rjcal-ilt"
+filename_suffix = "rjcal-rad"
 mission = "Mars2020"
-instrument = "CACHECAM"
+instrument = "Navcam"
 description = ""

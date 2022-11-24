@@ -8,5 +8,5 @@ color_noise_reduction_amount = 0
 hot_pixel_detection_threshold = 0
 filename_suffix = "rjcal-ilt"
 mission = "Mars2020"
-instrument = "CACHECAM"
+instrument = "Navcam"
 description = ""
