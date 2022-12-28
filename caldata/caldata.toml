@@ -6,11 +6,13 @@
         flat = "MSL_MAHLI_FLAT_Sol2904_V1.png"
         inpaint_mask = "MSL_MAHLI_INPAINT_Sol2904_V1.png"
         mask = ""
+        lut = "msl/ilut/DECOMPAND0.TXT"
     
     [msl.nav_right]
         flat = "MSL_NRB_FLAT_V1.png"
         inpaint_mask = "MSL_NRB_INPAINT_Sol3052_V1.png"
         mask = ""
+        lut = ""
     
     [msl.nav_left]
         flat = "MSL_NLB_FLAT_V1.png"
@@ -41,11 +43,13 @@
         flat = "FLAT_MR_filter0_0-rjcal.jpg"
         inpaint_mask = "MSL_MCAM_RIGHT_INPAINT_Sol3101_V1.png"
         mask = ""
+        lut = "msl/ilut/DECOMPAND0.TXT"
 
     [msl.mastcam_left]
         flat = "FLAT_ML_filter0_0-rjcal.jpg"
         inpaint_mask = "MSL_MCAM_LEFT_INPAINT_Sol3082_V1.png"
         mask = ""
+        lut = "msl/ilut/DECOMPAND0.TXT"
 
     [msl.chemcam]
         flat = "MSL_CCAM_FLAT_Sol32_V1.png"
@@ -56,24 +60,26 @@
         flat = "FLAT_MD_0_RGB_V1.jpg"
         inpaint_mask = ""
         mask = ""
-
-
+        lut = "msl/ilut/DECOMPAND0.TXT"
 
 [m20]
     [m20.mastcamz_right]
         flat = "R0_-motorcount-_cont_v1.jpg"
         inpaint_mask = "M20_MCZ_RIGHT_INPAINT_MASK_V1.png"
         mask = ""
+        lut = "m20/ilut/M20_MCZ_LUT2.txt"
     
     [m20.mastcamz_left]
         flat = "L0_-motorcount-_cont_v1.jpg"
         inpaint_mask = "M20_MCZ_LEFT_INPAINT_MASK_V1.png"
         mask = ""
+        lut = "m20/ilut/M20_MCZ_LUT2.txt"
 
     [m20.watson]
         flat = "M20_WATSON_PREFLIGHT_FLAT_RGB_FOCUS_11958_V1.jpg"
         inpaint_mask = "M20_WATSON_INPAINT_MASK_V1.png"
         mask = ""
+        lut = "m20/ilut/M20_SI_LUT0.txt"
 
     [m20.supercam_rmi]
         flat = "M20_SCAM_FLAT_RGB_Sol77_V2.png"
@@ -84,31 +90,37 @@
         flat = "FM103_flat_rgb_bias_mask.jpg"
         inpaint_mask = ""
         mask = ""
+        lut = "m20/ilut/M20_LUT2_v2a.txt"
 
     [m20.nav_right]
         flat = "FM103_flat_rgb_bias_mask.jpg"
         inpaint_mask = ""
         mask = ""
+        lut = "m20/ilut/M20_LUT2_v2a.txt"
 
     [m20.fhaz_right]
         flat = ""
         inpaint_mask = ""
         mask = ""
+        lut = "m20/ilut/M20_LUT2_v2a.txt"
 
     [m20.fhaz_left]
         flat = ""
         inpaint_mask = ""
         mask = ""
+        lut = "m20/ilut/M20_LUT2_v2a.txt"
 
     [m20.rhaz_right]
         flat = ""
         inpaint_mask = ""
         mask = ""
+        lut = "m20/ilut/M20_LUT2_v2a.txt"
 
     [m20.rhaz_left]
         flat = ""
         inpaint_mask = ""
         mask = ""
+        lut = "m20/ilut/M20_LUT2_v2a.txt"
 
     [m20.pixl_mcc]
         flat = "M20_FLAT_SN_5001.jpg"
@@ -139,6 +151,7 @@
         flat = ""
         inpaint_mask = ""
         mask = ""
+        lut = "m20/ilut/M20_LUT2_v2a.txt"
 
     [m20.edl_rdcam]
         flat = ""
@@ -148,13 +161,11 @@
 [nsyt]
     [nsyt.idc]
         flat = "NSYT_FLAT_SN_0210.jpg"
-        inpaint_mask = ""
-        mask = ""
+        lut = "nsyt/ilut/NSYT_LUT0.txt"
 
     [nsyt.icc]
         flat = "NSYT_FLAT_SN_0203.jpg"
-        inpaint_mask = ""
-        mask = ""
+        lut = "nsyt/ilut/NSYT_LUT0.txt"
 
 
 
