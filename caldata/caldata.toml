@@ -67,13 +67,13 @@
         flat = "R0_-motorcount-_cont_v1.jpg"
         inpaint_mask = "M20_MCZ_RIGHT_INPAINT_MASK_V1.png"
         mask = ""
-        lut = "m20/ilut/M20_MCZ_LUT2.txt"
+        lut = "m20/ilut/M20_MCZ_LUT0.txt"
     
     [m20.mastcamz_left]
         flat = "L0_-motorcount-_cont_v1.jpg"
         inpaint_mask = "M20_MCZ_LEFT_INPAINT_MASK_V1.png"
         mask = ""
-        lut = "m20/ilut/M20_MCZ_LUT2.txt"
+        lut = "m20/ilut/M20_MCZ_LUT0.txt"
 
     [m20.watson]
         flat = "M20_WATSON_PREFLIGHT_FLAT_RGB_FOCUS_11958_V1.jpg"
