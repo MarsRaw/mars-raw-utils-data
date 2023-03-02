@@ -100,25 +100,25 @@
         lut = "m20/ilut/M20_LUT2_v2a.txt"
 
     [m20.fhaz_right]
-        flat = ""
+        flat = "FM110_flat_rgb_bias.jpg"
         inpaint_mask = ""
         mask = ""
         lut = "m20/ilut/M20_LUT2_v2a.txt"
 
     [m20.fhaz_left]
-        flat = ""
+        flat = "FM105_flat_rgb_bias.jpg"
         inpaint_mask = ""
         mask = ""
         lut = "m20/ilut/M20_LUT2_v2a.txt"
 
     [m20.rhaz_right]
-        flat = ""
+        flat = "FM111_flat_rgb_bias.jpg"
         inpaint_mask = ""
         mask = ""
         lut = "m20/ilut/M20_LUT2_v2a.txt"
 
     [m20.rhaz_left]
-        flat = ""
+        flat = "FM108_flat_rgb_bias.jpg"
         inpaint_mask = ""
         mask = ""
         lut = "m20/ilut/M20_LUT2_v2a.txt"
