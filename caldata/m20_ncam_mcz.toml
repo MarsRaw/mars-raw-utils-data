@@ -1,0 +1,12 @@
+calfiletype = "profile"
+apply_ilt = true
+red_scalar = 1.0
+green_scalar = 0.87419156
+blue_scalar = 1.07888276
+color_noise_reduction = false
+color_noise_reduction_amount = 0
+hot_pixel_detection_threshold = 0
+filename_suffix = "rjcal-mcz"
+mission = "Mars2020"
+instrument = "Navcam"
+description = ""
