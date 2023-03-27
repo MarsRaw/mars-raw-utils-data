@@ -1,0 +1,12 @@
+calfiletype = "profile"
+apply_ilt = false
+red_scalar = 1.0
+green_scalar = 1.0
+blue_scalar = 1.0
+color_noise_reduction = false
+color_noise_reduction_amount = 0
+hot_pixel_detection_threshold = 0
+filename_suffix = "rjcal-bay"
+mission = "Mars2020"
+instrument = "Navcam"
+description = ""
