@@ -82,7 +82,7 @@
         lut = "m20/ilut/M20_SI_LUT0.txt"
 
     [m20.supercam_rmi]
-        flat = "M20_SCAM_FLAT_RGB_Sol77_V2.jpg"
+        flat = "M20_RMI_PREFLIGHT_FOD_V1.jpg"
         inpaint_mask = ""
         mask = "M20_SCAM_MASK_Sol1_V1.png"
         lut = "m20/ilut/M20_COMP_LUT0.txt"
