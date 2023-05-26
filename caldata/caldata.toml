@@ -9,7 +9,7 @@
         lut = "msl/ilut/DECOMPAND0.TXT"
     
     [msl.nav_right]
-        flat = "MSL_NRB_FLAT_V1.png"
+        flat = "MSL_NRB_FLAT_MRU_V1.png"
         inpaint_mask = "MSL_NRB_INPAINT_Sol3052_V1.png"
         mask = ""
         lut = ""
