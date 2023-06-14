@@ -193,6 +193,7 @@ m20_cachecam_rad.toml
 m20_hrte_rad.toml
 m20_ncam_bay.toml
 m20_ncam_dcc.toml
+m20_ncam_drcx.toml
 m20_ncam_ilt.toml
 m20_ncam_mcz.toml
 m20_ncam_rad.toml
@@ -202,6 +203,7 @@ m20_scam_ilt.toml
 m20_scam_rad.toml
 m20_watson_bay.toml
 m20_watson_dcc.toml
+m20_watson_drcx.toml
 m20_watson_ilt.toml
 m20_watson_rad.toml
 m20_zcam_bay.toml
