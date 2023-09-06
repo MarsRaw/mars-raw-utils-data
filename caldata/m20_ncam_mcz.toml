@@ -1,8 +1,8 @@
 calfiletype = "profile"
 apply_ilt = true
-red_scalar = 1.05
-green_scalar = 0.88
-blue_scalar = 1.08
+red_scalar = 1.0
+green_scalar = 0.725370532
+blue_scalar = 0.810117302
 color_noise_reduction = false
 color_noise_reduction_amount = 0
 hot_pixel_detection_threshold = 0
